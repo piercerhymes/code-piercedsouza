@@ -1,0 +1,24 @@
+.container{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: aquamarine;
+    padding: 100px;
+
+}
+
+#containerone{
+    background-color:cornsilk;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 100px;
+
+}
+
+#containerthree{
+background-color: beige;
+
+}
+
+.jumbotron{
+    background-color:black;
+}
